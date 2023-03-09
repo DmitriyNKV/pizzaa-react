@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pizzaa-react/static/css/main.20521503.css",
+    "main.js": "/pizzaa-react/static/js/main.ac3edea8.js",
+    "static/media/empty-cart.png": "/pizzaa-react/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/pizzaa-react/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/pizzaa-react/index.html",
+    "main.20521503.css.map": "/pizzaa-react/static/css/main.20521503.css.map",
+    "main.ac3edea8.js.map": "/pizzaa-react/static/js/main.ac3edea8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20521503.css",
+    "static/js/main.ac3edea8.js"
+  ]
+}
